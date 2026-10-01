@@ -34,7 +34,7 @@ J’écris sur la place du numérique dans nos organisations et nos vies : ses u
   Modèles, assistants, agents et applications ne désignent pas la même chose. Les distinguer aide à mieux comprendre les choix technologiques et leurs enjeux pour les entreprises.
 
 - [IA et Expérience utilisateur : stratégies, défis et opportunités](https://perspective.orange-business.com/fr/ia-et-experience-utilisateur-strategies-defis-opportunites/)  
-  Un article sur la façon dont l’IA transforme les interactions numériques et peut enrichir l’expérience utilisateur. Il propose une approche concrète, du cadrage des besoins à la conception, aux tests et à l’évaluation. citeturn14view0
+  Un article sur la façon dont l’IA transforme les interactions numériques et peut enrichir l’expérience utilisateur. Il propose une approche concrète, du cadrage des besoins à la conception, aux tests et à l’évaluation.
 
 ## Me retrouver ailleurs
 
